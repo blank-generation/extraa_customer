@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/mate/static/css/main.06e465f2.css",
-    "main.js": "/mate/static/js/main.884161a5.js",
+    "main.css": "/mate/static/css/main.ba610df6.css",
+    "main.js": "/mate/static/js/main.a0895ff4.js",
     "static/js/787.2423e5f9.chunk.js": "/mate/static/js/787.2423e5f9.chunk.js",
     "static/media/Rota-SemiBold.otf": "/mate/static/media/Rota-SemiBold.fa4a4f88fa25b721606d.otf",
     "static/media/Rota-Bold.otf": "/mate/static/media/Rota-Bold.3048305a43955892b568.otf",
     "static/media/Rota-Black.otf": "/mate/static/media/Rota-Black.953b68de6d8440b1bc79.otf",
     "static/media/logo.svg": "/mate/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/mate/index.html",
-    "main.06e465f2.css.map": "/mate/static/css/main.06e465f2.css.map",
-    "main.884161a5.js.map": "/mate/static/js/main.884161a5.js.map",
+    "main.ba610df6.css.map": "/mate/static/css/main.ba610df6.css.map",
+    "main.a0895ff4.js.map": "/mate/static/js/main.a0895ff4.js.map",
     "787.2423e5f9.chunk.js.map": "/mate/static/js/787.2423e5f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.06e465f2.css",
-    "static/js/main.884161a5.js"
+    "static/css/main.ba610df6.css",
+    "static/js/main.a0895ff4.js"
   ]
 }
