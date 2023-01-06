@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mate/static/css/main.588ed712.css",
-    "main.js": "/mate/static/js/main.fef04b8d.js",
+    "main.js": "/mate/static/js/main.c18fa9e5.js",
     "static/js/787.2423e5f9.chunk.js": "/mate/static/js/787.2423e5f9.chunk.js",
     "static/media/Rota-SemiBold.otf": "/mate/static/media/Rota-SemiBold.fa4a4f88fa25b721606d.otf",
     "static/media/Rota-Bold.otf": "/mate/static/media/Rota-Bold.3048305a43955892b568.otf",
@@ -9,11 +9,11 @@
     "static/media/logo.svg": "/mate/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/mate/index.html",
     "main.588ed712.css.map": "/mate/static/css/main.588ed712.css.map",
-    "main.fef04b8d.js.map": "/mate/static/js/main.fef04b8d.js.map",
+    "main.c18fa9e5.js.map": "/mate/static/js/main.c18fa9e5.js.map",
     "787.2423e5f9.chunk.js.map": "/mate/static/js/787.2423e5f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.588ed712.css",
-    "static/js/main.fef04b8d.js"
+    "static/js/main.c18fa9e5.js"
   ]
 }
